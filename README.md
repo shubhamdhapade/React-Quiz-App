@@ -1,4 +1,4 @@
-This README.md is tailored specifically to your React 19, Vite, and Tailwind 4 tech stack. It provides a professional overview for anyone viewing your repository, ensuring they can get the app running quickly. 
+
 
 React Quiz App
     A modern, high-performance quiz application built with React 19, Vite, and Tailwind CSS v4. This app features a real-time countdown timer, randomized answers, and a detailed summary of results. 
@@ -48,7 +48,7 @@ React Quiz App
     src/assets: Images and the question.js data file.
     src/utilities: Custom Modal and Toaster configurations. 
 
-=======================================================================================================================================================================
+===================================================================================================================================================================
                                                             Business Requirements Document (BRD)
 
 1. Executive Summary
@@ -92,7 +92,7 @@ React Quiz App
     Cost:    Low. Development uses open-source tools (React, Vite, Tailwind) and static hosting (Netlify/Vercel).
     Benefit: High educational value and proof-of-concept for React 19 patterns; serves as a high-quality template for future interactive projects.
 
-=========================================================================================================================================================================
+===================================================================================================================================================================
 
                                                             Software Requirements Specification (SRS)
 
@@ -125,5 +125,5 @@ React Quiz App
     User Interface: Styled using Tailwind CSS v4 utility classes for a consistent theme.
     Data Interface: Questions are imported from a static dummyRaWQuizData array provided at build time.
 
-=========================================================================================================================================================================
+===================================================================================================================================================================
 
